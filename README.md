@@ -1,7 +1,6 @@
 ## React css.gg
 
-[![npm version](https://img.shields.io/npm/v/react-css.gg.svg)](https://www.npmjs.com/package/react-css.gg)
-[![npm downloads](https://img.shields.io/npm/dm/react-css.gg.svg)](https://www.npmjs.com/package/react-css.gg)
+npm package removed since this will be merged in the main repo
 
 ### Usecase
 
